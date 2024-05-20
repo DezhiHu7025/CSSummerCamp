@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\anney_pu\E_old\缴费平台测试\常熟SummerCamp\SummerCamp202302\BIANYI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/KCBS_Biz.dll">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="bin/KCIS_Biz.dll">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="bin/NPOI.dll">
+      <publishTime>11/07/2017 10:49:02</publishTime>
+    </File>
+    <File Include="bin/SummerCamp.dll">
+      <publishTime>04/26/2024 09:01:31</publishTime>
+    </File>
+    <File Include="bin/SummerCamp.dll.config">
+      <publishTime>11/02/2022 15:42:54</publishTime>
+    </File>
+    <File Include="bin/SummerCamp.pdb">
+      <publishTime>04/26/2024 09:01:31</publishTime>
+    </File>
+    <File Include="checkpay.aspx">
+      <publishTime>04/26/2024 08:48:41</publishTime>
+    </File>
+    <File Include="choose.aspx">
+      <publishTime>04/26/2024 08:31:32</publishTime>
+    </File>
+    <File Include="course.aspx">
+      <publishTime>04/26/2024 08:31:37</publishTime>
+    </File>
+    <File Include="course_d.aspx">
+      <publishTime>04/26/2024 08:31:41</publishTime>
+    </File>
+    <File Include="course_d_inner.aspx">
+      <publishTime>04/15/2018 17:17:42</publishTime>
+    </File>
+    <File Include="course_inner.aspx">
+      <publishTime>04/15/2018 17:33:12</publishTime>
+    </File>
+    <File Include="css/app.css">
+      <publishTime>10/23/2018 10:37:14</publishTime>
+    </File>
+    <File Include="css/logincss.css">
+      <publishTime>02/23/2018 15:49:14</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>01/09/2018 14:57:06</publishTime>
+    </File>
+    <File Include="fonts/css/font-awesome.min.css">
+      <publishTime>11/07/2017 10:49:00</publishTime>
+    </File>
+    <File Include="img/1.jpg">
+      <publishTime>04/08/2018 17:43:26</publishTime>
+    </File>
+    <File Include="img/2.jpg">
+      <publishTime>04/08/2018 18:51:40</publishTime>
+    </File>
+    <File Include="img/3.jpg">
+      <publishTime>04/08/2018 18:53:28</publishTime>
+    </File>
+    <File Include="img/4-1.png">
+      <publishTime>10/17/2018 08:36:48</publishTime>
+    </File>
+    <File Include="img/4.jpg">
+      <publishTime>04/18/2018 08:04:26</publishTime>
+    </File>
+    <File Include="img/4.png">
+      <publishTime>03/26/2024 13:14:05</publishTime>
+    </File>
+    <File Include="img/5-1.png">
+      <publishTime>10/17/2018 08:37:02</publishTime>
+    </File>
+    <File Include="img/5.jpg">
+      <publishTime>04/08/2018 20:09:34</publishTime>
+    </File>
+    <File Include="img/5.png">
+      <publishTime>03/26/2024 13:13:59</publishTime>
+    </File>
+    <File Include="img/bangqiu.jpg">
+      <publishTime>04/15/2018 13:47:36</publishTime>
+    </File>
+    <File Include="img/icon1.jpg">
+      <publishTime>10/18/2018 09:12:26</publishTime>
+    </File>
+    <File Include="img/icon1.png">
+      <publishTime>10/16/2018 15:55:24</publishTime>
+    </File>
+    <File Include="img/icon2.jpg">
+      <publishTime>10/18/2018 09:12:54</publishTime>
+    </File>
+    <File Include="img/icon2.png">
+      <publishTime>10/16/2018 15:55:56</publishTime>
+    </File>
+    <File Include="img/icon3.jpg">
+      <publishTime>10/18/2018 09:13:24</publishTime>
+    </File>
+    <File Include="img/icon3.png">
+      <publishTime>10/16/2018 15:56:18</publishTime>
+    </File>
+    <File Include="img/icon4.jpg">
+      <publishTime>10/18/2018 09:13:58</publishTime>
+    </File>
+    <File Include="img/icon4.png">
+      <publishTime>10/16/2018 15:56:40</publishTime>
+    </File>
+    <File Include="img/jiqiren.jpg">
+      <publishTime>04/15/2018 13:44:54</publishTime>
+    </File>
+    <File Include="img/logo_denglu.png">
+      <publishTime>11/07/2017 10:49:02</publishTime>
+    </File>
+    <File Include="img/swim.jpg">
+      <publishTime>04/15/2018 13:47:48</publishTime>
+    </File>
+    <File Include="info.aspx">
+      <publishTime>04/26/2024 09:01:26</publishTime>
+    </File>
+    <File Include="info_inner.aspx">
+      <publishTime>04/17/2018 07:46:38</publishTime>
+    </File>
+    <File Include="inner_login.aspx">
+      <publishTime>04/16/2018 14:27:00</publishTime>
+    </File>
+    <File Include="js/app.js">
+      <publishTime>10/16/2018 10:48:16</publishTime>
+    </File>
+    <File Include="js/check.js">
+      <publishTime>10/16/2018 10:48:16</publishTime>
+    </File>
+    <File Include="js/Common.js">
+      <publishTime>11/07/2017 10:49:02</publishTime>
+    </File>
+    <File Include="js/jquery1.min.js">
+      <publishTime>11/07/2017 10:49:02</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz.sln">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/bin/Debug/KCIS_Biz.dll">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/bin/Debug/KCIS_Biz.pdb">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/bin/Debug/NPOI.dll">
+      <publishTime>11/07/2017 10:49:02</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/bin/Release/KCIS_Biz.dll">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/bin/Release/KCIS_Biz.pdb">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/bin/Release/NPOI.dll">
+      <publishTime>11/07/2017 10:49:02</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/KCIS_Biz.csproj">
+      <publishTime>12/05/2017 16:03:06</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache">
+      <publishTime>04/11/2018 08:28:12</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Debug/KCIS_Biz.csproj.FileListAbsolute.txt">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Debug/KCIS_Biz.csprojResolveAssemblyReference.cache">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Debug/KCIS_Biz.dll">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Debug/KCIS_Biz.pdb">
+      <publishTime>04/11/2018 13:46:38</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Release/build.force">
+      <publishTime>03/20/2018 14:54:58</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache">
+      <publishTime>12/06/2017 14:15:06</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Release/KCIS_Biz.csproj.FileListAbsolute.txt">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Release/KCIS_Biz.csprojResolveAssemblyReference.cache">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Release/KCIS_Biz.dll">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="KCIS_Biz/KCIS_Biz/obj/Release/KCIS_Biz.pdb">
+      <publishTime>11/07/2017 10:49:04</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>04/26/2024 08:32:12</publishTime>
+    </File>
+    <File Include="my.aspx">
+      <publishTime>04/10/2018 10:55:00</publishTime>
+    </File>
+    <File Include="myorder.aspx">
+      <publishTime>10/24/2018 09:23:56</publishTime>
+    </File>
+    <File Include="summercampuseradmin.aspx">
+      <publishTime>04/26/2024 08:32:26</publishTime>
+    </File>
+    <File Include="UpdateOrder.aspx">
+      <publishTime>10/24/2018 10:10:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/26/2024 08:32:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
