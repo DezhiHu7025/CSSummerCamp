@@ -42,3 +42,12 @@ D:\夏令营交接\SummerCamp240326-探索班\SummerCamp240326-探索班\SummerC
 D:\夏令营交接\SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.csproj.CopyComplete
 D:\夏令营交接\SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.dll
 D:\夏令营交接\SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.pdb
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\bin\SummerCamp.dll.config
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\bin\SummerCamp.dll
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\bin\SummerCamp.pdb
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\bin\NPOI.dll
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.csprojAssemblyReference.cache
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.csproj.CoreCompileInputs.cache
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.csproj.CopyComplete
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.dll
+D:\夏令营交接\常熟夏令营SummerCamp240326-探索班\SummerCamp240326-探索班\SummerCamp\SummerCamp\obj\Release\SummerCamp.pdb
